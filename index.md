@@ -24,11 +24,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text!
 
 
-[Link](url) and ![Image]![—Pngtree—bule border_3551748](https://user-images.githubusercontent.com/105621559/168982840-f62a4b34-46d9-4648-a716-c209dd5afa00.png)
+[Link](url) and ![Image]
 
 
 ```
-
+![test] (https://user-images.githubusercontent.com/105621559/168982840-f62a4b34-46d9-4648-a716-c209dd5afa00.png)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
