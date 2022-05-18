@@ -21,9 +21,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text!
 
-[Link](url) and ![Image](src)
+
+[Link](url) and ![Image] ![Image](https://user-images.githubusercontent.com/105621559/168981818-2eba377c-2865-4be3-bd94-b384d0d32bbe.jpg)
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
