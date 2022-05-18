@@ -45,7 +45,7 @@ Tailoring of mattresses has become popular to help with certain back and joint p
 
 Much research has gone into the effect of the mattress on sleep, and it is recommended that mattresses are replaced every 8 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
